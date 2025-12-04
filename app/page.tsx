@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 const phrases = [
   "Learn. Build. Collaborate.",
   "Showcase your projects.",
-  "Turn skills into money.",
+  "Turn skills into earnings.",
 ];
 
 function Typewriter({ words, speed = 90 }: { words: string[]; speed?: number }) {
