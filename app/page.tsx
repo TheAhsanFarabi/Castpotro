@@ -5,7 +5,11 @@ import { useEffect, useState } from "react";
 const phrases = [
   "Learn. Build. Collaborate.",
   "Showcase your projects.",
+<<<<<<< HEAD
+  "Turn skills into Earning!",
+=======
   "Turn skills into earnings.",
+>>>>>>> 8e6b4b0e453b15590716f5052d7a9ea33a9833c3
 ];
 
 function Typewriter({
