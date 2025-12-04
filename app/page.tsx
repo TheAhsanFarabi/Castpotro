@@ -88,11 +88,11 @@ export default function Home() {
           <div className="mt-6 flex gap-4 text-sm text-zinc-600">
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 rounded-full bg-primary" />
-              Active mentors: <strong className="ml-1">24</strong>
+              Active members: <strong className="ml-1">2500+</strong>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 rounded-full bg-secondary" />
-              Projects live: <strong className="ml-1">12</strong>
+              Active Events: <strong className="ml-1">06</strong>
             </div>
           </div>
         </div>
