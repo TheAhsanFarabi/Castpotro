@@ -1,4 +1,4 @@
-# Castpotro!
+# Castpotro
 
 Castpotro is an ecosystem designed to empower students, creators, developers, and young professionals through community-driven learning, collaboration, and skill development.  
 It combines elements of platforms like LinkedIn, Upwork, Coursera, and a project management system to create a unified space where youth can learn, build, showcase, and grow together....
