@@ -1,2 +1,2 @@
 # Castpotro
-A edu-tech platform to learn, build and earn
+An edu-tech platform to learn, build and earn
