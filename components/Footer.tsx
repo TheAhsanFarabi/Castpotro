@@ -6,10 +6,6 @@ export default function Footer() {
       <div className="mx-auto max-w-5xl px-6 text-center">
 
         <div className="flex justify-center gap-6 mb-4">
-          <a href="https://facebook.com/castpotro" target="_blank" rel="noreferrer"
-            className="text-white/80 hover:text-white transition">
-            <Facebook size={22} />
-          </a>
 
           <a href="https://instagram.com/castpotro" target="_blank" rel="noreferrer"
             className="text-white/80 hover:text-white transition">
@@ -28,7 +24,7 @@ export default function Footer() {
         </div>
 
         <div className="text-sm text-white/90">
-          © {new Date().getFullYear()} Castpotro — All rights reserved.
+          © {new Date().getFullYear()} Castpotro 2025 — All rights reserved.
         </div>
       </div>
     </footer>
