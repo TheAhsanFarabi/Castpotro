@@ -1,5 +1,5 @@
 "use client";
-
+import Link from "next/link";
 import { useEffect, useState } from "react";
 
 const phrases = [
@@ -70,19 +70,12 @@ export default function Home() {
           </p>
 
           <div className="mt-8 flex gap-4">
-            <button
-              onClick={() => setOpen(true)}
-              className="bg-primary text-white px-6 py-3 rounded-full shadow hover:shadow-lg transition"
-            >
-              Join the Community
-            </button>
-
-            <a
-              href="#features"
-              className="bg-secondary text-white px-6 py-3 rounded-full shadow hover:shadow-lg transition"
-            >
-              Explore Features
-            </a>
+            <Link
+  href="/register"
+  className="bg-primary text-white px-6 py-3 rounded-full shadow hover:shadow-lg transition"
+>
+  Start Learning Journey
+</Link>
           </div>
 
           <div className="mt-6 flex gap-4 text-sm text-zinc-600">

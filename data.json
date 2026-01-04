@@ -1,0 +1,29 @@
+[
+  {
+    "id": "55aaa3b4-8160-478a-8181-11a2435c6b5a",
+    "name": "Ahsan Farabi",
+    "email": "A@gmail.com",
+    "password": "12345",
+    "level": "Beginner",
+    "interest": "Web",
+    "style": "Video Tutorials"
+  },
+  {
+    "id": "b8c96c30-4704-494a-9020-cb81f8b977a5",
+    "name": "Shanto",
+    "email": "s@g.com",
+    "password": "root",
+    "level": "Beginner",
+    "interest": "Web",
+    "style": "Video Tutorials"
+  },
+  {
+    "id": "59f59099-82d7-497f-b7b2-23524515b685",
+    "name": "Minhaz",
+    "email": "m@g.com",
+    "password": "root",
+    "level": "Beginner",
+    "interest": "Data",
+    "style": "Documentation / Reading"
+  }
+]
